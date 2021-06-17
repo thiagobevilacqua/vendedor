@@ -2919,6 +2919,35 @@ a {
     left: -1rem;
   }
 }
+.cid-sADukZQMSZ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sADukZQMSZ .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sADukZQMSZ .card-wrapper {
+  padding: 3rem;
+  background: #fafafa;
+  border-radius: 4px;
+}
+@media (max-width: 992px) {
+  .cid-sADukZQMSZ .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sADukZQMSZ .card-wrapper {
+    padding: 3rem 1rem;
+  }
+}
+.cid-sADukZQMSZ .link {
+  color: #4479d9;
+}
 .cid-sAs7t3ePXE {
   padding-top: 2rem;
   padding-bottom: 2rem;
