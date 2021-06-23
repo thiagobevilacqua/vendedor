@@ -14,4 +14,16 @@
 	<url>
 		<loc>http://vendedor.com.br/contato.html</loc>
 	</url>
+	<url>
+		<loc>http://vendedor.com.br/perguntas-frequentes.html</loc>
+	</url>
+	<url>
+		<loc>http://vendedor.com.br/perguntas-frequentes-seguro-residencial.html</loc>
+	</url>
+	<url>
+		<loc>http://vendedor.com.br/perguntas-frequentes-seguro-vida.html</loc>
+	</url>
+	<url>
+		<loc>http://vendedor.com.br/perguntas-frequentes-seguro-auto.html</loc>
+	</url>
 </urlset>
